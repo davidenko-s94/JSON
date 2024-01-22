@@ -16,11 +16,19 @@
         "comment": ""
     },
     {
-        "category": "Для вас",
+        "category": "Мои приложения",
         "title": "Дневник давления",
         "description": "Кардио журнал",
         "image": "https://static.rustore.ru/apk/2063487054/content/ICON/f174e3ce-e73a-49ba-861d-1048fd22a81d.png",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
+        "comment": ""
+    },
+    {
+        "category": "Для вас",
+        "title": "Tinkoff Black",
+        "description": "Зарабатывайте деньги, а не бонусы. Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/tinkoff_logo.png?raw=true",
+        "website": "https://www.tinkoff.ru/baf/3vWdJInCm5Y",
         "comment": ""
     }
 ]
