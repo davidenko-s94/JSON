@@ -8,6 +8,22 @@
         "comment": ""
     },
     {
+        "category": "Для вас",
+        "title": "Tinkoff Black",
+        "description": "Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/tinkoff_logo.png?raw=true",
+        "website": "https://www.tinkoff.ru/baf/3vWdJInCm5Y",
+        "comment": ""
+    },
+    {
+        "category": "Для вас",
+        "title": "АльфаБанк",
+        "description": "Банк дает Вам 500 ₽, если оформите карту по моей ссылке. Она бесплатная, с суперкэшбэком до 100% каждый месяц и ещё по 5% в четырёх категориях на выбор.",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/alpha_logo.jpg?raw=true",
+        "website": "https://alfa.me/lWIYSS",
+        "comment": ""
+    },
+    {
         "category": "Мои приложения",
         "title": "Список покупок",
         "description": "С голосовым вводом",
@@ -69,22 +85,6 @@
         "description": "Повторитель и редактор текста",
         "image": "https://static.rustore.ru/apk/2063487433/content/ICON/bc6da77a-f59e-438e-9497-ae587b7876b0.png",
         "website": "https://apps.rustore.ru/app/com.example.copy_paste_text",
-        "comment": ""
-    },
-    {
-        "category": "Для вас",
-        "title": "Tinkoff Black",
-        "description": "Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
-        "image": "https://github.com/davidenko-s94/JSON/blob/main/tinkoff_logo.png?raw=true",
-        "website": "https://www.tinkoff.ru/baf/3vWdJInCm5Y",
-        "comment": ""
-    },
-    {
-        "category": "Для вас",
-        "title": "АльфаБанк",
-        "description": "Банк дает Вам 500 ₽, если оформите карту по моей ссылке. Она бесплатная, с суперкэшбэком до 100% каждый месяц и ещё по 5% в четырёх категориях на выбор.",
-        "image": "https://github.com/davidenko-s94/JSON/blob/main/alpha_logo.jpg?raw=true",
-        "website": "https://alfa.me/lWIYSS",
         "comment": ""
     }
 ]
