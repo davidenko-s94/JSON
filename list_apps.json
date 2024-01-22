@@ -57,8 +57,8 @@
     },
     {
         "category": "Мои приложения",
-        "title": "Рандомайзер: генератор случайных чисел",
-        "description": "Генератор паролей и списков чисел",
+        "title": "Рандомайзер",
+        "description": "Генератор случайных чисел и паролей",
         "image": "https://static.rustore.ru/apk/2063487720/content/ICON/5e05e382-5bbd-48fc-9690-66b36617234c.png",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.random",
         "comment": ""
@@ -82,7 +82,7 @@
     {
         "category": "Для вас",
         "title": "АльфаБанк",
-        "description": "В Альфа-Банке дают 500 ₽, если оформите карту по моей ссылке. Она бесплатная, с суперкэшбэком до 100% каждый месяц и ещё по 5% в четырёх категориях на выбор.",
+        "description": "Банк дает Вам 500 ₽, если оформите карту по моей ссылке. Она бесплатная, с суперкэшбэком до 100% каждый месяц и ещё по 5% в четырёх категориях на выбор.",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/alpha_logo.jpg?raw=true",
         "website": "https://alfa.me/lWIYSS",
         "comment": ""
