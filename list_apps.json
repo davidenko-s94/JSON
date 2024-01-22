@@ -1,6 +1,6 @@
 [
     {
-        "category": "app",
+        "category": "Мои приложения",
         "title": "Список покупок",
         "description": "С голосовым вводом",
         "image": "https://static.rustore.ru/apk/257464767/content/ICON/5346b60d-6fb0-4578-a254-ae70172678d7.png",
@@ -8,7 +8,7 @@
         "comment": ""
     },
     {
-        "category": "app",
+        "category": "Мои приложения",
         "title": "Список задач",
         "description": "Список задач, напоминания, заметки",
         "image": "https://static.rustore.ru/apk/258395071/content/ICON/001b00e9-6297-40bd-9a62-9893b39b6924.png",
@@ -16,7 +16,7 @@
         "comment": ""
     },
     {
-        "category": "app",
+        "category": "Для вас",
         "title": "Дневник давления",
         "description": "Кардио журнал",
         "image": "https://static.rustore.ru/apk/2063487054/content/ICON/f174e3ce-e73a-49ba-861d-1048fd22a81d.png",
