@@ -24,11 +24,59 @@
         "comment": ""
     },
     {
+        "category": "Мои приложения",
+        "title": "Мой кэшбэк",
+        "description": "Ваш гид к экономии - офлайн",
+        "image": "https://static.rustore.ru/apk/2063512302/content/ICON/9d19e7a0-dac2-4593-8bed-13a1350c90de.png",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.cash_back_list",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Дневник питомца",
+        "description": "Ваш личный помощник в уходе за животными",
+        "image": "https://static.rustore.ru/apk/2063538538/content/ICON/1217ddaf-b4c7-4c67-957e-88aee0ed9d7f.png",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.my_pet",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Ипотечный калькулятор",
+        "description": "Рассчеты и анализ для вашей ипотеки",
+        "image": "https://static.rustore.ru/apk/2063509647/content/ICON/50a63be9-0e11-4de0-a7c8-b23c18eebac1.png",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.mortgage",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Рандомайзер: генератор случайных чисел",
+        "description": "Генератор паролей и списков чисел",
+        "image": "https://static.rustore.ru/apk/2063487720/content/ICON/5e05e382-5bbd-48fc-9690-66b36617234c.png",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.random",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "CopyPaste: поиск и замена текста",
+        "description": "Повторитель и редактор текста",
+        "image": "https://static.rustore.ru/apk/2063487433/content/ICON/bc6da77a-f59e-438e-9497-ae587b7876b0.png",
+        "website": "https://apps.rustore.ru/app/com.example.copy_paste_text",
+        "comment": ""
+    },
+    {
         "category": "Для вас",
         "title": "Tinkoff Black",
         "description": "Зарабатывайте деньги, а не бонусы. Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/tinkoff_logo.png?raw=true",
         "website": "https://www.tinkoff.ru/baf/3vWdJInCm5Y",
+        "comment": ""
+    },
+    {
+        "category": "Для вас",
+        "title": "АльфаБанк",
+        "description": "В Альфа-Банке дают 500 ₽, если оформишь Альфа-Карту по моей ссылке. Она бесплатная, с суперкэшбэком до 100% каждый месяц и ещё по 5% в четырёх категориях на выбор.",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/alpha_logo.jpg?raw=true",
+        "website": "https://alfa.me/lWIYSS",
         "comment": ""
     }
 ]
