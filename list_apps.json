@@ -11,7 +11,7 @@
         "category": "Для вас",
         "title": "Tinkoff Black",
         "description": "Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
-        "image": "https://github.com/davidenko-s94/JSON/blob/main/tinkoff_logo.png?raw=true",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/tinkoff_logo.png?raw=true",
         "website": "https://www.tinkoff.ru/baf/3vWdJInCm5Y",
         "comment": ""
     },
@@ -27,7 +27,7 @@
         "category": "Мои приложения",
         "title": "Список покупок",
         "description": "С голосовым вводом",
-        "image": "https://static.rustore.ru/apk/257464767/content/ICON/5346b60d-6fb0-4578-a254-ae70172678d7.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/shop_list.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.shop_list",
         "comment": ""
     },
@@ -35,7 +35,7 @@
         "category": "Мои приложения",
         "title": "Список задач",
         "description": "Список задач, напоминания, заметки",
-        "image": "https://static.rustore.ru/apk/258395071/content/ICON/001b00e9-6297-40bd-9a62-9893b39b6924.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/dnevnikm.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.dnevnikm",
         "comment": ""
     },
@@ -43,7 +43,7 @@
         "category": "Мои приложения",
         "title": "Дневник давления",
         "description": "Кардио журнал",
-        "image": "https://static.rustore.ru/apk/2063487054/content/ICON/f174e3ce-e73a-49ba-861d-1048fd22a81d.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/note_f.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
         "comment": ""
     },
@@ -59,7 +59,7 @@
         "category": "Мои приложения",
         "title": "Дневник питомца",
         "description": "Ваш личный помощник в уходе за животными",
-        "image": "https://static.rustore.ru/apk/2063538538/content/ICON/1217ddaf-b4c7-4c67-957e-88aee0ed9d7f.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/cash_back_list.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.my_pet",
         "comment": ""
     },
@@ -67,7 +67,7 @@
         "category": "Мои приложения",
         "title": "Ипотечный калькулятор",
         "description": "Рассчеты и анализ для вашей ипотеки",
-        "image": "https://static.rustore.ru/apk/2063509647/content/ICON/50a63be9-0e11-4de0-a7c8-b23c18eebac1.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/mortgage.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.mortgage",
         "comment": ""
     },
@@ -75,7 +75,7 @@
         "category": "Мои приложения",
         "title": "Рандомайзер",
         "description": "Генератор случайных чисел и паролей",
-        "image": "https://static.rustore.ru/apk/2063487720/content/ICON/5e05e382-5bbd-48fc-9690-66b36617234c.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/random.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.random",
         "comment": ""
     },
@@ -83,7 +83,7 @@
         "category": "Мои приложения",
         "title": "CopyPaste: поиск и замена текста",
         "description": "Повторитель и редактор текста",
-        "image": "https://static.rustore.ru/apk/2063487433/content/ICON/bc6da77a-f59e-438e-9497-ae587b7876b0.png",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/copy_paste_text.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.example.copy_paste_text",
         "comment": ""
     }
