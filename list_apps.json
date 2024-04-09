@@ -57,6 +57,14 @@
     },
     {
         "category": "Мои приложения",
+        "title": "Мои подписки",
+        "description": "Возьмите контроль над подписками в свои руки",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/subscription.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.subscription",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
         "title": "Дневник питомца",
         "description": "Ваш личный помощник в уходе за животными",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/my_pet.png?raw=true",
