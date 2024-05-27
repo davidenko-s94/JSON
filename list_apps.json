@@ -47,6 +47,14 @@
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
         "comment": ""
     },
+        {
+        "category": "Мои приложения",
+        "title": "Найди пару: Детские карточки",
+        "description": "Офлайн игра с разными режимами для маленьких игроков и не только.",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/memory.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.picture_match_game",
+        "comment": ""
+    },
     {
         "category": "Мои приложения",
         "title": "Мой кэшбэк",
