@@ -1,0 +1,42 @@
+[
+    {
+        "category": "Разработчик",
+        "title": "Davidenko_S94",
+        "description": "davidenko_sergey@list.ru",
+        "image": "https://telegram.me/davidenko_s94",
+        "website": "https://www.tinkoff.ru/cf/1XzJNcyXO3Y",
+        "comment": ""
+    },
+    {
+        "category": "Для вас",
+        "title": "Tinkoff Black",
+        "description": "Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/tinkoff_logo.png?raw=true",
+        "website": "https://www.tinkoff.ru/baf/3vWdJInCm5Y",
+        "comment": ""
+    },
+    {
+        "category": "Для вас",
+        "title": "АльфаБанк",
+        "description": "Получите 500 ₽ за оформление бесплатной карты. Она с суперкэшбэком до 100% и ещё по 5% в четырёх категориях на выбор",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/alpha_logo.jpg?raw=true",
+        "website": "https://alfa.me/iaFW7g",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Список задач",
+        "description": "Список задач, напоминания, заметки",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/dnevnikm.png?raw=true",
+        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.dnevnikm",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Дневник питомца",
+        "description": "Ваш личный помощник в уходе за животными",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/my_pet.png?raw=true",
+        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.my_pet",
+        "comment": ""
+    }
+]
