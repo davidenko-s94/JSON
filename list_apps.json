@@ -25,10 +25,58 @@
     },
     {
         "category": "Мои приложения",
+        "title": "Список покупок",
+        "description": "С голосовым вводом",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/shop_list.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.shop_list",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
         "title": "Список задач",
         "description": "Список задач, напоминания, заметки",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/dnevnikm.png?raw=true",
-        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.dnevnikm",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.dnevnikm",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Дневник давления",
+        "description": "Ведите кардио журнал (давление, пульс, температура, лекарства, вес)",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/note_f.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Дневник давления - (без регистрации)",
+        "description": "Кардио журнал",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/note_f.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Найди пару: Детские карточки",
+        "description": "Офлайн игра с разными режимами для маленьких игроков и не только.",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/memory.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.picture_match_game",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Мой кэшбэк",
+        "description": "Ваш гид к экономии - офлайн",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/cash_back_list.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.cash_back_list",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Мои подписки",
+        "description": "Возьмите контроль над подписками в свои руки",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/subscription.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.subscription",
         "comment": ""
     },
     {
@@ -36,7 +84,31 @@
         "title": "Дневник питомца",
         "description": "Ваш личный помощник в уходе за животными",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/my_pet.png?raw=true",
-        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.my_pet",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.my_pet",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Ипотечный калькулятор",
+        "description": "Рассчеты и анализ для вашей ипотеки",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/mortgage.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.mortgage",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Рандомайзер",
+        "description": "Генератор случайных чисел и паролей",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/random.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.random",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "CopyPaste: поиск и замена текста",
+        "description": "Повторитель и редактор текста",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/copy_paste_text.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.example.copy_paste_text",
         "comment": ""
     }
 ]
