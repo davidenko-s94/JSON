@@ -31,6 +31,14 @@
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.picture_match_game",
         "comment": ""
     },
+     {
+        "category": "Мои игры",
+        "title": "Вордли - 5 букв",
+        "description": "Русские слова",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/wordle_game.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.wordle_game",
+        "comment": ""
+    },
     {
         "category": "Мои приложения",
         "title": "Список покупок",
