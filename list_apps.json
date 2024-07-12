@@ -42,17 +42,17 @@
     {
         "category": "Мои приложения",
         "title": "Дневник давления",
-        "description": "Ведите кардио журнал (давление, пульс, температура, лекарства, вес)",
+        "description": "Кардио журнал",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/note_f.png?raw=true",
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
         "comment": ""
     },
     {
         "category": "Мои приложения",
-        "title": "Дневник давления - (без регистрации)",
+        "title": "Дневник давления (без регистрации)",
         "description": "Кардио журнал",
-        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/note_f.png?raw=true",
-        "website": "https://apps.rustore.ru/app/com.davidenko_s94.note_f",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/pressure_diary.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.pressure_diary",
         "comment": ""
     },
     {
