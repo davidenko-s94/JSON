@@ -23,6 +23,14 @@
         "website": "https://alfa.me/iaFW7g",
         "comment": ""
     },
+     {
+        "category": "Мои игры",
+        "title": "Вордли - 5 букв",
+        "description": "Русские слова",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/wordle_game.png?raw=true",
+        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.wordle_game",
+        "comment": ""
+    },
     {
         "category": "Мои приложения",
         "title": "Список задач",
@@ -31,12 +39,36 @@
         "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.dnevnikm",
         "comment": ""
     },
+     {
+        "category": "Мои приложения",
+        "title": "Дневник давления и пульса",
+        "description": "Кардио журнал",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/pressure_diary.png?raw=true",
+        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.pressure_diary",
+        "comment": ""
+    },
     {
         "category": "Мои приложения",
         "title": "Дневник питомца",
         "description": "Ваш личный помощник в уходе за животными",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/my_pet.png?raw=true",
         "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.my_pet",
+        "comment": ""
+    },
+    {
+        "category": "Мои приложения",
+        "title": "Мой кэшбэк",
+        "description": "Ваш гид к экономии - офлайн",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/cash_back_list.png?raw=true",
+        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.cash_back_list",
+        "comment": ""
+    },
+     {
+        "category": "Мои приложения",
+        "title": "Мои подписки",
+        "description": "Возьмите контроль над подписками в свои руки",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/subscription.png?raw=true",
+        "website": "https://play.google.com/store/apps/details?id=com.davidenko_s94.subscription",
         "comment": ""
     }
 ]
