@@ -39,6 +39,14 @@
         "website": "https://apps.rustore.ru/app/com.davidenko_s94.shop_list",
         "comment": ""
     },
+     {
+        "category": "Мои приложения",
+        "title": "Список покупок +",
+        "description": "С голосовым вводом",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/shop_check.png?raw=true",
+        "website": "https://apps.rustore.ru/app/com.davidenko_s94.shop_check",
+        "comment": ""
+    },
     {
         "category": "Мои приложения",
         "title": "Список задач",
