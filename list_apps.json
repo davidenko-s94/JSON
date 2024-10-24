@@ -9,6 +9,14 @@
     },
     {
         "category": "Для вас",
+        "title": "Группа ВКонтакте",
+        "description": "Здесь вы найдете все мои приложения, последние обновления и сможете оставить свои комментарии",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/vk.png?raw=true",
+        "website": "https://vk.com/apps_from_davidenko_s94",
+        "comment": ""
+    },
+     {
+        "category": "Для вас",
         "title": "Tinkoff Black",
         "description": "Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
         "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/tinkoff_logo.png?raw=true",
