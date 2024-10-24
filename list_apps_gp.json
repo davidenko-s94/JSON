@@ -17,9 +17,9 @@
     },
     {
         "category": "Для вас",
-        "title": "Tinkoff Black",
-        "description": "Бесплатная дебетовая карта с двойным доходом: кэшбэком до 30% и ежемесячным процентом на остаток",
-        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/tinkoff_logo.png?raw=true",
+        "title": "T-Банк",
+        "description": "Black — дебетовая карта с кэшбэком. Если оформить по моей ссылке, вы получите 500 ₽",
+        "image": "https://github.com/davidenko-s94/JSON/blob/main/logo/t-bank.png?raw=true",
         "website": "https://www.tbank.ru/baf/690ITPO3xai",
         "comment": ""
     },
