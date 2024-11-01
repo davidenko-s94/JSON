@@ -1,0 +1,15 @@
+{
+  "appName": "MyApp",
+  "users": [
+    {
+      "username": "user123",
+      "code": "ABCD1234",
+      "validUntil": "2024-12-31"
+    },
+    {
+      "username": "user456",
+      "code": "EFGH5678",
+      "validUntil": "2024-11-30"
+    }
+  ]
+}
