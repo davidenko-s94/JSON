@@ -11,5 +11,10 @@
       "code": "EFGH5678",
       "validUntil": "2024-11-30"
     }
+    {
+      "username": "dav",
+      "code": "DAV0111",
+      "validUntil": "2024-11-1"
+    }
   ]
 }
