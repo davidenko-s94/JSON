@@ -10,10 +10,11 @@
   ],
   "cta": {
     "text": "Обновить",
-    "url_android": "https://play.google.com/store/apps/details?id=your.app",
-    "url_rustore": "https://apps.rustore.ru/app/your.app",
+    "url_android": "https://play.google.com/store/apps/details?id=com.davidenko_s94.cash_back_list",
+    "url_rustore": "https://www.rustore.ru/catalog/app/com.davidenko_s94.cash_back_list",
     "url_ios": ""
   },
   "published": "2025-09-14T18:00:00Z"
 }
+
 
