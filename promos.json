@@ -1,49 +1,16 @@
 {
   "promos": [
     {
-      "id": "sep-sale-2025",
-      "title": "Сентябрьская распродажа 🎉",
-      "message": "Скидка 50% на годовую подписку. Только до конца недели!",
+      "id": "sale-20-sep-2025",
+      "title": "Скидка 20% 🎉",
+      "message": "Успей воспользоваться акцией! Только до 21 сентября.",
       "audience": "all",
-      "startsAt": "2025-09-15T00:00:00Z",
-      "endsAt":   "2025-09-22T00:00:00Z",
+      "startsAt": "2025-09-01T00:00:00Z",
+      "endsAt": "2025-09-21T23:59:59Z",
       "sticky": false,
       "priority": 100,
-      "cooldownHours": 12,
-      "image": "https://example.com/sale.jpg",
-      "buttons": [
-        {
-          "text": "Оформить со скидкой",
-          "url": "https://apps.rustore.ru/app/your.app.id/subscriptions"
-        },
-        {
-          "text": "Узнать больше",
-          "url": "https://your.site/promo/september"
-        }
-      ]
-    },
-    {
-      "id": "new-feature-abc",
-      "title": "Новая функция: умные списки",
-      "message": "Автоматические категории и рекомендации по экономии времени.",
-      "audience": "all",
-      "sticky": false,
-      "priority": 50,
-      "buttons": [
-        { "text": "Посмотреть", "url": "https://your.site/blog/smart-lists" }
-      ]
-    },
-    {
-      "id": "thank-you-pro",
-      "title": "Спасибо, что вы с нами! 💚",
-      "message": "Для PRO доступен ранний доступ к экспериментальным фичам.",
-      "audience": "pro",
-      "sticky": false,
-      "priority": 10,
-      "buttons": [
-        { "text": "Что нового", "url": "https://your.site/pro/early-access" }
-      ]
+      "cooldownHours": 24,
+      "buttons": []
     }
   ]
 }
-
