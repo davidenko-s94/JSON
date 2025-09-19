@@ -3,14 +3,14 @@
     "id": "promo_2025_autumn",
     "title": "Осенняя акция",
     "text": "Скидка 30% на PRO-подписку — только до 2025-10-05!",
-    "target": "free",           // "all" | "pro" | "free"
-    "start": "2025-09-20T00:00:00Z",
+    "target": "free",
+    "start": "2025-09-19T00:00:00Z",
     "end": "2025-10-05T23:59:59Z",
     "minAppVersion": "0.0.0",
-    "once": true,              // если true — показывать 1 раз для пользователя
-    "repeat_days": 0,          // если >0 — скрыть на N дней после «Позже»
-    "priority": 10,            // сортировка, больше = важнее
-    "locale": "ru"             // или null/empty = все локали
+    "once": true,
+    "repeat_days": 0,
+    "priority": 10,
+    "locale": "ru"
   },
   {
     "id": "pro_features_news",
@@ -24,3 +24,4 @@
     "priority": 5
   }
 ]
+
