@@ -1,27 +1,48 @@
-[
-  {
-    "id": "promo_2025_autumn",
-    "title": "Осенняя акция",
-    "text": "Скидка 30% на PRO-подписку — только до 2025-10-05!",
-    "target": "free",
-    "start": "2025-09-19T00:00:00Z",
-    "end": "2025-10-05T23:59:59Z",
-    "minAppVersion": "0.0.0",
-    "once": true,
-    "repeat_days": 0,
-    "priority": 10,
-    "locale": "ru"
-  },
-  {
-    "id": "pro_features_news",
-    "title": "Новые PRO-фичи",
-    "text": "ALL: Авто-советник получил обновление. Проверьте в приложении.",
-    "target": "all",
-    "start": "2025-09-19T00:00:00Z",
-    "end": "2026-01-01T00:00:00Z",
-    "once": false,
-    "repeat_days": 7,
-    "priority": 5
-  }
-]
-
+{
+  "promos": [
+    {
+      "id": "sep-sale-2025",
+      "title": "Сентябрьская распродажа 🎉",
+      "message": "Скидка 50% на годовую подписку. Только до конца недели!",
+      "audience": "free",
+      "startsAt": "2025-09-15T00:00:00Z",
+      "endsAt":   "2025-09-22T00:00:00Z",
+      "sticky": false,
+      "priority": 100,
+      "cooldownHours": 12,
+      "image": "https://example.com/sale.jpg",
+      "buttons": [
+        {
+          "text": "Оформить со скидкой",
+          "url": "https://apps.rustore.ru/app/your.app.id/subscriptions"
+        },
+        {
+          "text": "Узнать больше",
+          "url": "https://your.site/promo/september"
+        }
+      ]
+    },
+    {
+      "id": "new-feature-abc",
+      "title": "Новая функция: умные списки",
+      "message": "Автоматические категории и рекомендации по экономии времени.",
+      "audience": "all",
+      "sticky": false,
+      "priority": 50,
+      "buttons": [
+        { "text": "Посмотреть", "url": "https://your.site/blog/smart-lists" }
+      ]
+    },
+    {
+      "id": "thank-you-pro",
+      "title": "Спасибо, что вы с нами! 💚",
+      "message": "Для PRO доступен ранний доступ к экспериментальным фичам.",
+      "audience": "pro",
+      "sticky": false,
+      "priority": 10,
+      "buttons": [
+        { "text": "Что нового", "url": "https://your.site/pro/early-access" }
+      ]
+    }
+  ]
+}
