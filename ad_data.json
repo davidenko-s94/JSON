@@ -23,6 +23,13 @@
     },
     {
       "appName": "cash_back",
+      "username": "Vasiliy",
+      "code": "b5e3ff02-a1b4-4be8-8c8b-35936fd52a65",
+      "validUntil": "2099-12-31",
+      "activationUntil": "2025-10-02"
+    },
+    {
+      "appName": "cash_back",
       "username": "user123",
       "code": "ABCD1234",
       "validUntil": "2025-12-31",
@@ -86,6 +93,7 @@
     }
   ]
 }
+
 
 
 
