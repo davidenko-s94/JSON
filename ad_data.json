@@ -33,7 +33,7 @@
       "username": "user123",
       "code": "ABCD1234",
       "validUntil": "2025-12-31",
-      "activationUntil": "2025-10-09"
+      "activationUntil": "2025-10-16"
     },
     {
       "appName": "cash_back",
@@ -93,6 +93,7 @@
     }
   ]
 }
+
 
 
 
