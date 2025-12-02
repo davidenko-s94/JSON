@@ -1,6 +1,13 @@
 {
   "users": [
     {
+      "appName": "cash_back_promo",
+      "username": "user123",
+      "code": "ABCD1234",
+      "validUntil": "2025-12-31",
+      "activationUntil": "2025-12-16"
+    },
+    {
       "appName": "shop_check",
       "username": "user123",
       "code": "ABCD1234",
@@ -93,6 +100,7 @@
     }
   ]
 }
+
 
 
 
