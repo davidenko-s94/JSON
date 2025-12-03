@@ -3,7 +3,7 @@
     {
       "appName": "cash_back_promo",
       "username": "user123",
-      "code": "ABCD1234",
+      "code": "EDS57RJ16",
       "validUntil": "2025-12-31",
       "activationUntil": "2025-12-16"
     },
@@ -40,7 +40,7 @@
       "username": "user123",
       "code": "ABCD1234",
       "validUntil": "2025-12-31",
-      "activationUntil": "2025-10-16"
+      "activationUntil": "2025-12-16"
     },
     {
       "appName": "cash_back",
@@ -100,6 +100,7 @@
     }
   ]
 }
+
 
 
 
