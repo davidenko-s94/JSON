@@ -4,8 +4,8 @@
       "appName": "cash_back_promo",
       "username": "user123",
       "code": "NEWYEAR2026",
-      "validUntil": "2025-12-31",
-      "activationUntil": "2025-12-31"
+      "validUntil": "2026-01-03",
+      "activationUntil": "2026-01-03"
     },
     {
       "appName": "shop_check",
@@ -100,6 +100,7 @@
     }
   ]
 }
+
 
 
 
