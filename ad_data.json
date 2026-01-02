@@ -47,7 +47,7 @@
       "username": "userTG94",
       "code": "EFGH5678",
       "validUntil": "2099-12-31",
-      "activationUntil": "2026-05-02"
+      "activationUntil": "2025-05-02"
     },
     {
       "appName": "cash_back",
@@ -100,6 +100,7 @@
     }
   ]
 }
+
 
 
 
